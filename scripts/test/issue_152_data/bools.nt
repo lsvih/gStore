@@ -1,0 +1,2 @@
+<http://logic.local/trueval> <http://logic.local/b> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://logic.local/falseval> <http://logic.local/b> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .

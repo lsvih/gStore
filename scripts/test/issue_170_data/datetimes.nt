@@ -1,0 +1,2 @@
+<http://logic.local/a> <http://logic.local/time> "2024-06-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://logic.local/b> <http://logic.local/time> "2024-01-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

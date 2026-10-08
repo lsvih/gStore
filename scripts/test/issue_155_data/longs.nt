@@ -1,0 +1,2 @@
+<http://logic.local/c> <http://logic.local/n> "2"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://logic.local/d> <http://logic.local/n> "3"^^<http://www.w3.org/2001/XMLSchema#long> .

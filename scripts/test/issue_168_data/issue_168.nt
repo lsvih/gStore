@@ -1,0 +1,6 @@
+<http://logic.local/plain> <http://logic.local/label> "abc" .
+<http://logic.local/typed> <http://logic.local/label> "abc"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://logic.local/empty> <http://logic.local/label> "" .
+<http://logic.local/lang> <http://logic.local/label> "abc"@en .
+
+<http://logic.local/a> <http://logic.local/q> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

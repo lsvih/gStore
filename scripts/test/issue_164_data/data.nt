@@ -1,0 +1,4 @@
+<http://newsrc30.local/e1> <http://newsrc30.local/label> "a\"b" .
+<http://newsrc30.local/e2> <http://newsrc30.local/label> "a\nb" .
+<http://newsrc30.local/e3> <http://newsrc30.local/label> "a\tb" .
+<http://newsrc30.local/n1> <http://newsrc30.local/label> "anb" .

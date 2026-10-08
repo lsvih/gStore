@@ -1,0 +1,2 @@
+<http://logic.local/three> <http://logic.local/n> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://logic.local/two> <http://logic.local/n> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .

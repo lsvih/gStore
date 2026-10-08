@@ -1,0 +1,3 @@
+<http://logic.local/a> <http://logic.local/label> "banana" .
+<http://logic.local/b> <http://logic.local/label> "cherry" .
+<http://logic.local/c> <http://logic.local/label> "apple" .

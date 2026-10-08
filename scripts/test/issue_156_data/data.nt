@@ -1,0 +1,6 @@
+<http://logic.local/one> <http://logic.local/flag> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://logic.local/true> <http://logic.local/flag> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://logic.local/zero> <http://logic.local/flag2> "0"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://logic.local/false> <http://logic.local/flag2> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://logic.local/plainone> <http://logic.local/plain> "1" .
+<http://logic.local/plaintrue> <http://logic.local/plain> "true" .

@@ -1,0 +1,3 @@
+<http://logic.local/x> <http://logic.local/q> "hello" .
+<http://logic.local/y> <http://logic.local/q> "world" .
+<http://logic.local/z> <http://logic.local/r> <http://logic.local/x> .
